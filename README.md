@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bem vindo / Welcome
+Eu sou Gustavo, Estudante de Engenharia da Computação na Universidade Presbeteriana Mackenzie(2024-2028?)
+tenho pythom basico e estou apredendo java
 
 <!--
 **fenrir-mack/fenrir-mack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
